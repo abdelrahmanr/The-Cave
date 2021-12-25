@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using TheCave;
 
 namespace WinFormsApp5
 {
@@ -31,6 +32,16 @@ namespace WinFormsApp5
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Booking a = new Booking ();
+            a.time = int.Parse(textBox2.Text);
+            a.NumberOfChairs = int.Parse(textBox5.Text);
+            a.TotalPrice= int.Parse(textBox6.Text);
+            a.NumberOfHours= int.Parse(textBox7.Text);
+            Repo rm = new Repo();
+            rm.Database.EnsureCreated();
+            rm.bookings.Add(a);
+            rm.SaveChanges();
+            MessageBox.Show("Done");
 
         }
     }

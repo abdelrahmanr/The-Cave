@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using TheCave;
 
 namespace WinFormsApp5
 {
@@ -20,6 +21,19 @@ namespace WinFormsApp5
             ProductForm f = new ProductForm();
             f.Show();
             Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Product p = new Product();
+            p.buyPrice = int.Parse(textBox3.Text);
+            p.sellPrice = int.Parse(textBox4.Text);
+            p.productName = textBox2.Text;
+            Repo rp = new Repo();
+            rp.Database.EnsureCreated();
+            rp.products.Add(p);
+            rp.SaveChanges();
+            MessageBox.Show("Done");
         }
     }
 }

@@ -10,7 +10,7 @@ namespace WinFormsApp5
 {
     public partial class EditClintFrom : Form
     {
-        public EditClintFrom()
+        public EditClintFrom(IEnumerable<Client> clients)
         {
             InitializeComponent();
         }

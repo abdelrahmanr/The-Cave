@@ -63,6 +63,150 @@ namespace TheCave.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _11 {
+            get {
+                object obj = ResourceManager.GetObject("11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _11111 {
+            get {
+                object obj = ResourceManager.GetObject("11111", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4278949 {
+            get {
+                object obj = ResourceManager.GetObject("4278949", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4444 {
+            get {
+                object obj = ResourceManager.GetObject("4444", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap book_hologram_rays_application_icons_hands_laptop_background_online_communication_education_concept_double_216519389 {
+            get {
+                object obj = ResourceManager.GetObject("book-hologram-rays-application-icons-hands-laptop-background-online-communication" +
+                        "-education-concept-double-216519389", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap book_hologram_rays_application_icons_hands_laptop_background_online_communication_education_concept_double_2165193891 {
+            get {
+                object obj = ResourceManager.GetObject("book-hologram-rays-application-icons-hands-laptop-background-online-communication" +
+                        "-education-concept-double-2165193891", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap book_hologram_rays_application_icons_hands_laptop_background_online_communication_education_concept_double_2165193892 {
+            get {
+                object obj = ResourceManager.GetObject("book-hologram-rays-application-icons-hands-laptop-background-online-communication" +
+                        "-education-concept-double-2165193892", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap conference_meeting_room_board_flat_sticker_concilium_icon_business_meeting_office_desk_chairs_vector_isolated_background_eps_10_399089_2053 {
+            get {
+                object obj = ResourceManager.GetObject("conference-meeting-room-board-flat-sticker-concilium-icon-business-meeting-office" +
+                        "-desk-chairs-vector-isolated-background-eps-10_399089-2053", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download {
+            get {
+                object obj = ResourceManager.GetObject("download", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__1_ {
+            get {
+                object obj = ResourceManager.GetObject("download (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("download (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__2_22 {
+            get {
+                object obj = ResourceManager.GetObject("download (2)22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download1 {
+            get {
+                object obj = ResourceManager.GetObject("download1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
@@ -83,9 +227,39 @@ namespace TheCave.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap meeting_icon_vector_illustration_260nw_7704141 {
+            get {
+                object obj = ResourceManager.GetObject("meeting-icon-vector-illustration-260nw-7704141", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap meeting_icon_vector_illustration_260nw_770414974 {
+            get {
+                object obj = ResourceManager.GetObject("meeting-icon-vector-illustration-260nw-770414974", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WhatsApp_Image_2021_12_19_at_11_36_04_AM__1_ {
             get {
                 object obj = ResourceManager.GetObject("WhatsApp Image 2021-12-19 at 11.36.04 AM (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2021_12_25_at_5_26_38_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2021-12-25 at 5.26.38 AM", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -10,7 +10,7 @@ namespace WinFormsApp5
 {
     public partial class EditProduct : Form
     {
-        public EditProduct()
+        public EditProduct(IEnumerable<Product> products)
         {
             InitializeComponent();
         }

@@ -10,7 +10,7 @@ namespace WinFormsApp5
 {
     public partial class EditUserForm : Form
     {
-        public EditUserForm()
+        public EditUserForm(User user)
         {
             InitializeComponent();
         }

@@ -10,7 +10,7 @@ namespace WinFormsApp5
 {
     public partial class EditOrderForm : Form
     {
-        public EditOrderForm()
+        public EditOrderForm(IEnumerable<order> orders)
         {
             InitializeComponent();
         }

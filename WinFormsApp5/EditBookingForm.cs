@@ -10,7 +10,7 @@ namespace WinFormsApp5
 {
     public partial class EditBookingForm : Form
     {
-        public EditBookingForm()
+        public EditBookingForm(Booking bo)
         {
             InitializeComponent();
         }

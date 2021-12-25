@@ -52,7 +52,6 @@
             // 
             // pictureBox1
             // 
-          //  this.pictureBox1.Image = global::WinFormsApp5.Properties.Resources.logo1;
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(125, 62);
@@ -206,12 +205,12 @@
             this.button2.TabIndex = 18;
             this.button2.Text = "Save";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // AddOrderForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-           // this.BackgroundImage = global::WinFormsApp5.Properties.Resources.WhatsApp_Image_2021_12_19_at_11_36_04_AM__1_;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(890, 455);
             this.Controls.Add(this.button2);
